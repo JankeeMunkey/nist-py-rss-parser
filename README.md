@@ -12,4 +12,4 @@ run `python rssparser.py` to initiate the script.
 
 When the script runs, it will deposit the urls in the viewed_urls.txt file to keep track of NIST RSS feed results previously obtained. Feel free to clean this file out if the output seems lacking.
 
-The reccomendation is to use something like cron to run this every 8 days as this is the frequency the feed is updated.
+The recommendation is to use something like cron to run this every 8 days as this is the frequency the feed is updated.
